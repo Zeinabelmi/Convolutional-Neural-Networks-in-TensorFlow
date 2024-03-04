@@ -1,6 +1,6 @@
 <h1>Convolutional Neural Networks in TensorFlow</h1>
 
-<h2>C2W1_Assignment:# Week 1: Using CNN's with the Cats vs Dogs Dataset</h2>
+<h2>C2W1_Assignment: Using CNN's with the Cats vs Dogs Dataset</h2>
 <p>In this assignment, the famous `Cats vs Dogs` dataset to train a model that can classify images of dogs from images of cats.</p>
 <code> Convolutional Neural Network in Tensorflow and leverage Keras' image preprocessing utilities.</code>
 
